@@ -1,4 +1,4 @@
-# ASTUTE-BOTS
+# ASTUTE-BOT
 This is an emergency rover for situations like global pandemics and natural disasters.
 
 Yeah, it’s official, we all are in between a PANDEMIC!!!! It is us who are involved, and it should be us again who should be coming out of this disastrous thing out safe and sound.
