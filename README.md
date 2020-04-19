@@ -1,1 +1,1 @@
-# -ASTUTE-BOTS-
+# ASTUTE-BOTS
